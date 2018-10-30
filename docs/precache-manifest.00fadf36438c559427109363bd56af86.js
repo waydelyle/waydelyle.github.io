@@ -26,5 +26,9 @@ self.__precacheManifest = [
   {
     "revision": "e9e8d14a4aa44d45f188",
     "url": "/css/app.695fb2ec.css"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/.nojekll"
   }
 ];
